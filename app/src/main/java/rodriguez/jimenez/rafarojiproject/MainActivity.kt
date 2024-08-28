@@ -1,5 +1,5 @@
 package rodriguez.jimenez.rafarojiproject
-
+//Este es mi programa inicial, soy Rafael Rodríguez Jiménez
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
